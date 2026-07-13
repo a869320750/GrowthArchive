@@ -1,0 +1,21 @@
+# Python Cookbook 学习所需依赖
+# 随着学习逐步添加，避免一次性装太多
+
+# 数据处理 (Ch1, Ch3, Ch6)
+numpy
+pandas
+
+# 网络 (Ch11)
+requests
+aiohttp
+
+# Web (Ch11)
+flask
+
+# 测试 (Ch14)
+pytest
+pytest-benchmark
+
+# 其他工具
+python-dateutil
+pytz
