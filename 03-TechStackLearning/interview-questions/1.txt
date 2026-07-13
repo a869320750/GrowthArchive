@@ -1,0 +1,64 @@
+1:Afterpay - 上海
+3:Amazon - 北京/上海
+4:AMD - 上海
+5:Apple - 北京/上海
+7:ARM - 上海
+8:Autodesk - 北京/上海
+9:Booking - 上海
+10:Bosch Group - 上海/苏州/无锡
+13:Cisco - 北京/上海/杭州/苏州
+15:Continental AG - 上海/合肥
+17:Coupang - 北京/上海
+18:CSTC (花旗金融) - 上海
+19:Dell - 上海
+22:eBay - 上海
+24:Electronic Arts - 上海
+25:EMC - 上海
+26:EPAM Systems - 上海/深圳/苏州/成都
+27:Ericsson - 上海
+28:Flexport - 上海/深圳
+30:GE - 上海
+31:Google - 北京/上海
+33:Honeywell - 上海
+34:HP - 上海
+35:HSBC - 上海/广州/西安
+37:IBM (GBS除外) - 北京/上海
+38:iHerb - 上海
+39:Intel - 北京/上海/深圳
+40:JetBrains - 北京/上海
+41:Kong - 上海
+42:LeetCode - 上海
+43:LEGO Group - 上海
+45:Micro Focus - 上海
+46:Microsoft - 北京/上海/苏州
+48:Morgan Stanley (IT) - 上海
+49:National Instruments - 上海
+50:Nike - 上海
+51:Nokia - 上海/南京/杭州
+52:Nomura - 上海
+53:NVIDIA - 北京/上海
+54:Optiver - 上海
+55:Oracle - 上海
+56:PayPal - 上海
+57:Philips - 上海/苏州
+58:Pivotal - 北京/上海
+59:Qualcomm - 北京/上海
+60:Rakuten - 上海/大连
+61:Red Hat - 北京/上海/深圳/西安/remote
+63:Rippling - 北京/上海
+64:SanDisk - 上海
+65:SAP - 上海
+66:SmartNews - 北京/上海
+68:Starbucks - 上海
+70:SUSE - 北京/上海/深圳
+71:The Trade Desk - 上海/深圳
+72:ThoughtWorks - 西安/北京/深圳/成都/武汉/上海/香港
+75:TuSimple - 北京/上海
+76:Two Sigma - 上海
+77:Ubisoft - 上海
+78:Unity - 上海
+79:Vipshop (唯品会) - 上海
+80:VMware - 北京/上海
+81:WeWork - 上海
+82:Wish - 上海
+83:Works Applications - 上海
